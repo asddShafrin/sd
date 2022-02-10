@@ -1,0 +1,42 @@
+body{
+background-color: thistle;
+}
+#forgot b{
+    font-size: 20px;    
+}
+#forgot p{
+    font-size: 130%;
+    text-align:left;
+}
+div{
+    background-color:white ;
+    margin: auto;
+    width: 450px;
+    font-size: 90%;
+    text-align: center;
+}
+#forgot input{
+    width: 90%;
+    margin: 10px;
+    padding: 10px;
+    color: rgb(126, 27, 192);
+    
+}
+#forgot input.search{
+    padding: 2%;
+    width: 15%;
+    background-color: royalblue;
+    cursor: pointer;
+}
+#forgot input.c{
+    width: 15%;
+    text-align: left;
+    margin-left: 60%;
+    cursor: pointer;
+   
+}
+#forgot form :hover{
+    background-color: slategray; 
+    transition:ease-in-out 0.8s;
+
+}

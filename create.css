@@ -1,0 +1,79 @@
+body{
+    background-color: thistle;
+}
+div{
+    background-color: white;
+    margin:auto ;
+    width: 500px;
+    height: 530px;
+    text-align: center;
+}
+#div .B {
+ 
+    font-size: 199%;
+   margin-right: 70%;
+}
+#div .ami{
+    margin-right: 70%;
+    font-size: 17px;
+}
+#div input{ 
+    background-color: rgb(218, 217, 216);
+    color: rgb(15, 15, 15); 
+    margin: 10px;
+    padding: 2%;
+
+}
+#div form :hover{
+   background-color: cyan;
+   transition: ease-in-out 0.8s;
+
+}
+
+.m{
+    width: 90%;  
+    
+}
+.p{
+    width: 90%;
+}
+
+.d{ margin-right: 77%;
+
+}
+#div input.fn{
+  
+    width: 200px;
+  }
+  #div input.sn{ 
+    width: 200px;
+   
+  } 
+  .tarik{
+      width: 150px;
+      padding: 10px;
+     
+
+  }
+   .mash{
+    width: 150px;
+    padding: 10px;
+
+   }
+
+.sal{
+    width: 150px;
+      padding: 10px;
+      
+}
+p{
+margin-right: 84%;
+
+}
+.s{
+    font-size: 120%;
+    padding: 10px;
+    width: 150px;
+    
+   
+}

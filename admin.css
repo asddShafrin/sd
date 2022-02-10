@@ -1,0 +1,45 @@
+.admin{
+    background-color: tan;
+    width: 700px;
+    margin: auto;
+    text-align: center; 
+    height: 300px;
+    padding: 10px;
+}
+.admin h1{
+    color: rgb(240, 11, 49);
+    font-size: 50px;
+
+}
+#login input{ 
+    color: rgb(8, 8, 8);
+    background-color: rgb(255, 255, 255);
+    width: 90%;
+    margin: 10px;
+    padding: 5px;
+}
+.admin a{
+    text-decoration: none;
+    font-size: 20px;
+    color: blue; 
+    width: 30%;
+    
+}
+#login .ad{
+    width: 30%;
+    
+}
+#login .ad:hover{
+  background-color: mediumorchid;
+  transition: ease-in-out 0.9s;
+  cursor: pointer;
+}
+#login .a:hover{
+    background-color: mistyrose;
+    transition: ease-in-out 0.7s;
+}
+#login .b:hover{
+    background-color: mistyrose;
+    transition: ease-in-out 0.7s;
+}
+
